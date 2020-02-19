@@ -9,7 +9,7 @@ go get -u
 
 ### Run scrapper
 ```
-go run hackernews.go
+go run src/hackernews.go
 ```
 
 Example result :
