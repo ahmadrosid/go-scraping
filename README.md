@@ -2,6 +2,11 @@
 
 Example scraping with golang
 
+### Download dependency
+```
+go get -u
+```
+
 ### Run scrapper
 ```
 go run hackernews.go
